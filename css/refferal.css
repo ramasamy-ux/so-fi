@@ -1,0 +1,232 @@
+
+    body {
+      background: #f5f7fa;
+      font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    }
+    .sofi-container {
+      max-width: 800px;
+      margin: 50px auto;
+      padding: 30px;
+      background: #fff;
+      border-radius: 8px;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+      text-align: center;
+    }
+    .sofi-heading {
+      font-size: 32px;
+      font-weight: 700;
+      color: #000;
+    }
+    .sofi-heading span {
+      color: #0056b3;
+    }
+    .sofi-subtext {
+      font-size: 16px;
+      color: #555;
+      margin: 20px 0;
+    }
+    .sofi-bonus-box {
+      background: #0070c9;
+      color: #fff;
+      padding: 20px;
+      border-radius: 4px;
+      font-size: 24px;
+      font-weight: bold;
+      margin: 20px 0;
+    }
+    .sofi-footnote {
+      font-size: 12px;
+      color: #888;
+    }
+ 
+    body {
+      background: #f5f7fa;
+      font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    }
+    .referral-container {
+      max-width: 1000px;
+      margin: 50px auto;
+      text-align: center;
+    }
+    .referral-heading {
+      font-size: 32px;
+      font-weight: 700;
+    }
+    .referral-heading span {
+      color: #0056b3;
+    }
+    .referral-item {
+      margin-bottom: 30px;
+    }
+    .referral-item img {
+      width: 100px;
+      height: 100px;
+      margin-bottom: 10px;
+    }
+    .referral-btn {
+      background: #00a8ff;
+      color: #fff;
+      border: none;
+      padding: 10px 20px;
+      border-radius: 4px;
+    }
+    .referral-btn:hover {
+      background: #007acc;
+    }
+
+    body {
+      background: #f5f7fa;
+      font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    }
+    .how-container {
+      max-width: 1000px;
+      margin: 50px auto;
+      padding: 20px;
+    }
+    .phone-img {
+      max-width: 300px;
+      margin: 0 auto 20px;
+    }
+    .steps {
+      text-align: left;
+      padding-left: 30px;
+    }
+    .steps h3 {
+      font-weight: bold;
+      margin-bottom: 20px;
+    }
+    .steps li {
+      margin-bottom: 15px;
+      font-size: 16px;
+    }
+    .invite-btn {
+      background: #00a8ff;
+      color: #fff;
+      border: none;
+      padding: 10px 25px;
+      border-radius: 4px;
+      margin-top: 10px;
+    }
+    .invite-btn:hover {
+      background: #007acc;
+    }
+    .faqs {
+      font-size: 12px;
+      color: #0056b3;
+      margin-top: 10px;
+      display: inline-block;
+    }
+	
+    body {
+      background: #f5f7fa;
+      font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    }
+    .rules-container {
+      max-width: 900px;
+      margin: 50px auto;
+      background: #fff;
+      padding: 30px;
+      border-radius: 6px;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+    }
+    .rules-header {
+      border-bottom: 1px solid #ddd;
+      padding-bottom: 10px;
+      margin-bottom: 20px;
+    }
+    .rules-header h2 {
+      margin: 0;
+    }
+    .rules-content p {
+      font-size: 14px;
+      color: #333;
+      line-height: 1.6;
+      text-align: justify;
+    }
+    .alert-bar {
+      background: #f99c1c;
+      color: #000;
+      padding: 10px;
+      text-align: center;
+      font-weight: bold;
+    }
+    .alert-bar a {
+      color: #000;
+      text-decoration: underline;
+    }
+
+    body {
+      background: #f5f7fa;
+      font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    }
+    .terms-container {
+      max-width: 1000px;
+      margin: 50px auto;
+      background: #fff;
+      padding: 30px;
+      border-radius: 6px;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+    }
+    .terms-heading {
+      font-size: 24px;
+      font-weight: bold;
+      margin-bottom: 20px;
+    }
+    .panel-title a {
+      display: block;
+      text-decoration: none;
+    }
+    .panel-title a:after {
+      content: "+";
+      float: right;
+    }
+    .panel-title a.collapsed:after {
+      content: "+";
+    }
+    .panel-title a:not(.collapsed):after {
+      content: "-";
+    }
+ 
+    body {
+      background: #f5f7fa;
+    }
+    .footer {
+      background: #fff;
+      padding: 30px 20px;
+      border-top: 1px solid #ddd;
+      font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+      font-size: 13px;
+      color: #333;
+    }
+    .footer h5 {
+      font-weight: bold;
+      margin-bottom: 10px;
+    }
+    .footer ul {
+      list-style: none;
+      padding: 0;
+    }
+    .footer ul li {
+      margin-bottom: 5px;
+    }
+    .footer ul li a {
+      color: #333;
+      text-decoration: none;
+    }
+    .footer ul li a:hover {
+      text-decoration: underline;
+    }
+    .qr-section {
+      text-align: center;
+    }
+    .qr-section img {
+      max-width: 100px;
+    }
+    .on-money {
+      font-weight: bold;
+    }
+ 
+
+
+  
+ 

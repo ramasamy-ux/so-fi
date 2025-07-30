@@ -1,0 +1,133 @@
+
+    .tips-header {
+      text-align: center;
+      margin-top: 30px;
+      margin-bottom: 30px;
+    }
+    .team-box {
+      background: #f7f7f7;
+      padding: 20px;
+      border-radius: 4px;
+      text-align: center;
+    }
+    .team-box img {
+      max-width: 100px;
+      margin-bottom: 15px;
+    }
+    body {
+      background-color: #f9f9f9;
+      padding: 30px;
+    }
+    .sofi-container {
+      background: #fff;
+      padding: 30px;
+      border-radius: 5px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+    .sofi-header {
+      font-weight: bold;
+      color: #003366;
+    }
+    .sofi-subheader {
+      font-weight: bold;
+      font-size: 24px;
+      color: #003366;
+    }
+    .btn-sofi {
+      background-color: #0074c2;
+      color: #fff;
+      border: none;
+    }
+    .btn-sofi:hover {
+      background-color: #005999;
+    }
+    .sofi-image {
+      max-width: 100%;
+      height: auto;
+    }
+
+    body {
+      background-color: #e6f0fa;
+      padding: 30px;
+    }
+    .sofi-container {
+      background: #fff;
+      padding: 30px;
+      border-radius: 5px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+    .sofi-header {
+      font-size: 28px;
+      font-weight: bold;
+      text-align: center;
+      margin-bottom: 30px;
+      color: #003366;
+    }
+    .service-box {
+      border: 1px solid #ddd;
+      padding: 15px;
+      text-align: center;
+      margin-bottom: 20px;
+      background: #fff;
+      border-radius: 4px;
+      min-height: 200px;
+    }
+    .service-box img {
+      max-width: 80px;
+      height: auto;
+      margin-bottom: 10px;
+    }
+    .service-title {
+      font-weight: bold;
+      font-size: 16px;
+    }
+    .learn-link {
+      color: #0074c2;
+      text-decoration: none;
+    }
+    .learn-link:hover {
+      text-decoration: underline;
+    }
+
+    body {
+      background-color: #f9f9f9;
+      padding: 30px;
+    }
+    .footer {
+      background: #fff;
+      padding: 30px;
+      border-radius: 5px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+      font-size: 13px;
+    }
+    .footer h4 {
+      font-size: 14px;
+      font-weight: bold;
+      margin-bottom: 10px;
+    }
+    .footer ul {
+      list-style: none;
+      padding: 0;
+    }
+    .footer ul li {
+      margin-bottom: 5px;
+    }
+    .footer a {
+      color: #0074c2;
+      text-decoration: none;
+    }
+    .footer a:hover {
+      text-decoration: underline;
+    }
+    .qr {
+      max-width: 100px;
+      height: auto;
+      margin-bottom: 10px;
+    }
+    .subscribe-btn {
+      background: #003366;
+      color: #fff;
+      border: none;
+      padding: 5px 10px;
+    }
+ 
